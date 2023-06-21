@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pedro Perez</h1>
 <h3 align="center">A student studying Computer Science. I am focusing on development and machine learning</h3>
 
-- 🔭 I’m currently working on **Personal projects.**
+- 🔭 I’m currently working on **personal projects and research.**
 
-- 🌱 I’m currently learning **Anything I can find.**
+- 🌱 I’m currently learning **anything I can find.**
 
-- 👯 I’m looking to collaborate on **Projects.**
+- 👯 I’m looking to collaborate on **projects.**
 
-- 🤝 I’m looking for help with **Finding said collaborative projects.**
+- 🤝 I’m looking for help with **finding said collaborative projects.**
 
-- 💬 Ask me about **Anything. Can't promise an answer, but I can try.**
+- 💬 Ask me about **anything. Can't promise an answer, but I can try.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
