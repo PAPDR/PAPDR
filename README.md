@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Anything I can find.**
 
-- 👯 I’m looking to collaborate on **Collaborative projects.**
+- 👯 I’m looking to collaborate on **Projects.**
 
 - 🤝 I’m looking for help with **Finding said collaborative projects.**
 
